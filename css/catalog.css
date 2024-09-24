@@ -1,0 +1,108 @@
+body{
+    background-color: #FADECB;
+}
+a{
+    text-decoration: none;
+}
+.main{
+    max-width: 1920px;
+    margin-top: 191px;
+    margin-left: 228px;
+}
+.main__wrap{
+    margin-left: 250px;
+    display: flex;
+}
+.main__purple{
+    background-color: #E2AFAF;
+    width: 585px;
+    height: 597px;
+    border-radius: 10px;
+    max-width: 585px;
+}
+.main__dog{
+    margin-left: 191px;
+    position: absolute;
+    margin-top: 22px;
+    margin-left: -1px;
+}
+.main__text{
+    position: absolute;
+    margin-bottom: 31px;
+    margin-left: 42px;
+    font-size: 40px;
+    font-weight: 400;
+    margin-top: 5px;
+}
+.main__text3{
+    position: absolute;
+    margin-bottom: 31px;
+    margin-left: 42px;
+    font-size: 40px;
+    font-weight: 400;
+    margin-top: 5px;
+}
+.main__text3:hover{
+    background-color: #fff;
+    width: 246px;
+    height: 56px;
+    border-radius: 20px;
+}
+.main__text:hover{
+    background-color: #fff;
+    width: 180px;
+    height: 56px;
+    border-radius: 20px;
+}
+.main__green{
+    background-color: #B6D7CF;
+    width: 387px;
+    height: 303px;
+    border-radius: 10px;
+    margin-left: 16px;
+}
+.main__bird{
+    margin-left: 141px;
+    margin-top: 20px;
+}
+.main__grey{
+    background-color: #D9D9D9;
+    border-radius: 10px;
+    margin-left: 21px;
+    width: 411px;
+    height: 303px;
+}
+.main__rodent{
+    margin-left: 164px;
+    margin-top: 55px;
+}
+.main__orange{
+    position: absolute;
+    background-color: #FEC188;
+    width: 814px;
+    height: 263px;
+    border-radius: 10px;
+    margin-right: -0px;
+    margin-left: 600px;
+    margin-top: 334px;
+}
+.main__text4{
+    position: absolute;
+    margin-top: 198px;
+    margin-left: 554px;
+    font-size: 40px;
+    font-weight: 400;
+}
+.main__text4:hover{
+    background-color: #fff;
+    width: 180px;
+    height: 56px;
+    border-radius: 20px;
+}
+.main__cat{
+    width: 363px;
+    height: 265px;
+}
+.main__a{
+    color: #000000;
+}
